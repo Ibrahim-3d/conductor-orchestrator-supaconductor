@@ -5,6 +5,7 @@ model: opus
 tools:
   - read_file
   - write_file
+  - run_shell_command
 ---
 
 # Board Meeting Agent
